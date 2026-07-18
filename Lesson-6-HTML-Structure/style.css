@@ -1,0 +1,15 @@
+p {
+    text-align: center;
+    font-family: montserrat;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.model {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.description {
+    margin-top: 10px;
+}
